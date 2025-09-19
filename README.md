@@ -23,5 +23,3 @@ This is a responsive stopwatch web application built with HTML, CSS, and JavaScr
 - Click **Pause** to pause the timer.
 - Click **Reset** to reset the timer and clear laps.
 - Click **Lap** to record intermediate times.
-
-Would you like me to generate this as a ready-to-use `README.md` file text for your repo?
