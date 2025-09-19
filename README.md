@@ -16,7 +16,7 @@ This is a responsive stopwatch web application built with HTML, CSS, and JavaScr
 
 ## Installation
 1. Clone the repository:
-2. Open `index.html` in your preferred browser.
+2. Open `stopwatch.html` in your preferred browser.
 
 ## Usage
 - Click **Start** to begin timing.
